@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="223mm"
+   height="297mm"
+   viewBox="0 0 223 297"
+   version="1.1"
+   id="svg3545"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="doors.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3547"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.1788996"
+     inkscape:cx="198.43532"
+     inkscape:cy="746.2286"
+     inkscape:window-width="1366"
+     inkscape:window-height="711"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3542">
+    <filter
+       inkscape:label="Blue Cheese"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Marble-like bluish speckles"
+       style="color-interpolation-filters:sRGB"
+       id="filter4278"
+       x="-0.0058702799"
+       y="-0.0058702799"
+       width="1.0117406"
+       height="1.0117406">
+      <feTurbulence
+         numOctaves="2"
+         baseFrequency="0.063"
+         id="feTurbulence4280" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 -10 1"
+         id="feColorMatrix4282" />
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur4284" />
+      <feTurbulence
+         numOctaves="3"
+         baseFrequency="0.031"
+         type="fractalNoise"
+         result="result0"
+         id="feTurbulence4286" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 -0.5"
+         id="feColorMatrix4288" />
+      <feComposite
+         operator="in"
+         in2="result2"
+         in="result1"
+         id="feComposite4290" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite4292" />
+    </filter>
+    <filter
+       inkscape:label="Blue Cheese"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Marble-like bluish speckles"
+       style="color-interpolation-filters:sRGB"
+       id="filter4294"
+       x="-0.0073265703"
+       y="-0.0073265703"
+       width="1.0146531"
+       height="1.0146531">
+      <feTurbulence
+         numOctaves="2"
+         baseFrequency="0.063"
+         id="feTurbulence4296" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 -10 1"
+         id="feColorMatrix4298" />
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur4300" />
+      <feTurbulence
+         numOctaves="3"
+         baseFrequency="0.031"
+         type="fractalNoise"
+         result="result0"
+         id="feTurbulence4302" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 -0.5"
+         id="feColorMatrix4304" />
+      <feComposite
+         operator="in"
+         in2="result2"
+         in="result1"
+         id="feComposite4306" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite4308" />
+    </filter>
+    <filter
+       inkscape:label="Blue Cheese"
+       inkscape:menu="Overlays"
+       inkscape:menu-tooltip="Marble-like bluish speckles"
+       style="color-interpolation-filters:sRGB"
+       id="filter4262"
+       x="-0.0096680438"
+       y="-0.0096680438"
+       width="1.0193361"
+       height="1.0193361">
+      <feTurbulence
+         numOctaves="2"
+         baseFrequency="0.063"
+         id="feTurbulence4264" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0.5 0 0 0 0 0.5 0 0 0 -10 1"
+         id="feColorMatrix4266" />
+      <feGaussianBlur
+         stdDeviation="1"
+         result="result1"
+         id="feGaussianBlur4268" />
+      <feTurbulence
+         numOctaves="3"
+         baseFrequency="0.031"
+         type="fractalNoise"
+         result="result0"
+         id="feTurbulence4270" />
+      <feColorMatrix
+         result="result2"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 -0.5"
+         id="feColorMatrix4272" />
+      <feComposite
+         operator="in"
+         in2="result2"
+         in="result1"
+         id="feComposite4274" />
+      <feComposite
+         in2="SourceGraphic"
+         operator="atop"
+         id="feComposite4276" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3641"
+       transform="matrix(0.28222223,0,0,0.28222223,-90.011937,859.01789)">
+      <rect
+         y="-3028.6541"
+         x="331.33008"
+         height="1030.3556"
+         width="767.71588"
+         id="rect5214"
+         style="fill:#a05a2c" />
+      <path
+         transform="translate(0,-4616.9292)"
+         id="rect5216"
+         d="m 331.33008,1586.2539 v 1030.3555 2.0215 h 739.43162 v -2.0215 h 32.3242 V 1586.2539 h -4.039 -694.98635 z m 72.73047,74.752 h 270.7207 v 618.2129 h -270.7207 z m 343.45312,0 h 282.84183 v 416.1836 h -43.60941 c -9.418,0 -17,7.582 -17,17 v 6.4062 c 0,9.418 7.582,17 17,17 h 43.60941 v 161.6231 H 747.51367 Z"
+         style="fill:#d45500"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
